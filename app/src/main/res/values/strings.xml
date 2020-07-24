@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="country">
+        <item>France</item>
+        <item>United Kingdom</item>
+        <item>United State</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>Japan</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>Spain</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>Currecy: Euro(€)(EUR), CFP franc(XPF)​    Languages: French</item>
+        <item>Currecy: Pound sterling        Languages: English</item>
+        <item>Currecy: United States dollar ($)    Languages: English</item>
+        <item>Currecy: Renminbi(yuan ¥)(CNY)    Languages: Chinese</item>
+        <item>Currecy: Indian rupee(₹)(INR)    Languages: Hindi, English</item>
+        <item>Currecy: Australian dollar (AUD)    Languages: English</item>
+        <item>Currecy: Japanese yen(¥)(JPY)    Languages: Japanese</item>
+        <item>Currecy: Euro(€)(EUR)          Languages: Italiana</item>
+        <item>Currecy: Euro(€)(EUR)          Languages: German</item>
+        <item>Currecy: Euro(€)(EUR)          Languages: Spanish</item>
+    </string-array>
+
+    <!--
+        <string-array name="city">
+            <item>Paris, Bordeaux, Marseille, Nantes, Lyon</item>
+            <item>London, Birmingham, Liverpool, Nottingham, Sheffield</item>
+            <item>NewYork, Chicago, Los angeles, San fransisco, Washington</item>
+            <item>Beijing, Shanghai , Wuhan , Tianjin , Guilin</item>
+            <item>Mumbai, Chennai, Kolkata, New delhi, Pune </item>
+            <item>Melbourne, Sydney, Perth, Brisbane, Hobart</item>
+            <item>Tokyo, Osaka, Kyoto, Yokohama, Nagoya </item>
+            <item>Rome, Vanice, Florence, Neples, Milan</item>
+            <item>Berlin, Munich, Cologne, Dresden, Nuremberg</item>
+            <item>Madrid, Barcelona, Seville, Granada, Valencia</item>
+        </string-array>
+    -->
+
+
+</resources>
