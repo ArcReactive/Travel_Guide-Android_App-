@@ -22,6 +22,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 /**
+ * //@Author NuwanSudusinghe.
  * A simple {@link Fragment} subclass.
  * Use the {@link FavoriteFragment#newInstance} factory method to
  * create an instance of this fragment.

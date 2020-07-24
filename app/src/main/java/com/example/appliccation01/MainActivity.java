@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+//@Author NuwanSudusinghe.
 public class MainActivity extends AppCompatActivity {
 
     Button enterBtn;

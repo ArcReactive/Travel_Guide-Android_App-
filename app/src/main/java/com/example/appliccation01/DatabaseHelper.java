@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 import androidx.annotation.Nullable;
-
+//@Author NuwanSudusinghe.
 public class DatabaseHelper extends SQLiteOpenHelper {
     private static final int version = 1 ;
     //table details.

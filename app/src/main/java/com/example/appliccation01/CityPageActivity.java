@@ -9,7 +9,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-
+//@Author NuwanSudusinghe.
 public class CityPageActivity extends AppCompatActivity {
 
     String cityName, population, area, Link;

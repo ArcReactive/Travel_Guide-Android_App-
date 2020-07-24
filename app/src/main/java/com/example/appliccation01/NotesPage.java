@@ -13,7 +13,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-
+//@Author NuwanSudusinghe.
 public class NotesPage extends AppCompatActivity {
 
     String countryName,notes = "Testing Note submit";

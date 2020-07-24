@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.widget.ListView;
 
 import com.google.android.material.tabs.TabLayout;
-
+//@Author NuwanSudusinghe.
 public class MainMenu extends AppCompatActivity {
 
     @Override

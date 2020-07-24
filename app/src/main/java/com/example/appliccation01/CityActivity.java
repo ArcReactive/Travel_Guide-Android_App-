@@ -13,7 +13,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-
+//@Author NuwanSudusinghe.
 public class CityActivity extends AppCompatActivity {
 
     String txt, countryName = "Empty";

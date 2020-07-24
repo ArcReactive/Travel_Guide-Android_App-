@@ -20,6 +20,7 @@ import android.widget.Switch;
 import android.widget.Toast;
 
 /**
+ * //@Author NuwanSudusinghe.
  * A simple {@link Fragment} subclass.
  * Use the {@link AllCountriesFragment#newInstance} factory method to
  * create an instance of this fragment.
