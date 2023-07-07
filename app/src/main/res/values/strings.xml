@@ -7,28 +7,49 @@
     <string-array name="country">
         <item>France</item>
         <item>United Kingdom</item>
-        <item>United State</item>
+        <item>United States</item>
         <item>China</item>
-        <item>India</item>
-        <item>Australia</item>
+        <item>Mexico</item>
+        <item>Austria</item>
         <item>Japan</item>
         <item>Italy</item>
         <item>Germany</item>
-        <item>Spain</item>
+        <item>Thailand</item>
+        <item>Sri Lanka</item>
+        <item>Turkey</item>
+        <item>Austria</item>
+        <item>Malaysia</item>
+        <item>Hong Kong</item>
+        <item>Greece</item>
+        <item>Russia</item>
+        <item>Japan</item>
+        <item>Canada</item>
+        <item>Saudi Arabia</item>
+        <item>Poland</item>
+        <item>South Korea</item>
+        <item>Netherlands</item>
+        <item>Macao</item>
+        <item>Hungary</item>
+        <item>United Arab Emirates</item>
+        <item>Croatia</item>
+        <item>Singapore</item>
+        <item>Indonesia</item>
+        <item>Czech Republic</item>
     </string-array>
 
-    <string-array name="city">
-        <item>Currecy: Euro(€)(EUR), CFP franc(XPF)​    Languages: French</item>
-        <item>Currecy: Pound sterling        Languages: English</item>
-        <item>Currecy: United States dollar ($)    Languages: English</item>
-        <item>Currecy: Renminbi(yuan ¥)(CNY)    Languages: Chinese</item>
-        <item>Currecy: Indian rupee(₹)(INR)    Languages: Hindi, English</item>
-        <item>Currecy: Australian dollar (AUD)    Languages: English</item>
-        <item>Currecy: Japanese yen(¥)(JPY)    Languages: Japanese</item>
-        <item>Currecy: Euro(€)(EUR)          Languages: Italiana</item>
-        <item>Currecy: Euro(€)(EUR)          Languages: German</item>
-        <item>Currecy: Euro(€)(EUR)          Languages: Spanish</item>
-    </string-array>
+    <!--    <string-array name="city">-->
+    <!--        <item>Currency: Rupees(Rs)(LK)    Languages: Sinhala</item>-->
+    <!--        <item>Currency: Euro(€)(EUR), CFP franc(XPF)​    Languages: French</item>-->
+    <!--        <item>Currency: Pound sterling        Languages: English</item>-->
+    <!--        <item>Currency: United States dollar ($)    Languages: English</item>-->
+    <!--        <item>Currency: Renminbi(yuan ¥)(CNY)    Languages: Chinese</item>-->
+    <!--        <item>Currency: Indian rupee(₹)(INR)    Languages: Hindi, English</item>-->
+    <!--        <item>Currency: Australian dollar (AUD)    Languages: English</item>-->
+    <!--        <item>Currency: Japanese yen(¥)(JPY)    Languages: Japanese</item>-->
+    <!--        <item>Currency: Euro(€)(EUR)          Languages: Italiana</item>-->
+    <!--        <item>Currency: Euro(€)(EUR)          Languages: German</item>-->
+    <!--        <item>CurrenScy: Euro(€)(EUR)          Languages: Spanish</item>-->
+    <!--    </string-array>-->
 
     <!--
         <string-array name="city">

@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--@Author Nuwan Sudusinghe-->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.appliccation01">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -12,12 +11,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".WeatherPage"></activity>
-        <activity android:name=".NotesPage" />
-        <activity android:name=".CityPageActivity" />
-        <activity android:name=".CityActivity" />
-        <activity android:name=".MainMenu" />
-        <activity android:name=".MainActivity">
+        <activity
+            android:name="com.nuwansudusinghe.appliccation01.AboutPage"
+            android:exported="false" />
+        <activity android:name="com.nuwansudusinghe.appliccation01.WeatherPage" />
+        <activity android:name="com.nuwansudusinghe.appliccation01.NotesPage" />
+        <activity android:name="com.nuwansudusinghe.appliccation01.CityPageActivity" />
+        <activity android:name="com.nuwansudusinghe.appliccation01.CityActivity" />
+        <activity android:name="com.nuwansudusinghe.appliccation01.MainMenu" />
+        <activity
+            android:name="com.nuwansudusinghe.appliccation01.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
